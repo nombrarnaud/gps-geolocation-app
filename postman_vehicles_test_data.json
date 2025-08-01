@@ -1,0 +1,49 @@
+{
+  "vehicles": [
+    {
+      "name": "Truck 1",
+      "currentLatitude": 48.8566,
+      "currentLongitude": 2.3522,
+      "speed": 50,
+      "altitude": 100,
+      "weight": 1500,
+      "ownerEmail": "alice@techsolutions.com"
+    },
+    {
+      "name": "Car A",
+      "currentLatitude": 48.8584,
+      "currentLongitude": 2.2945,
+      "speed": 60,
+      "altitude": 120,
+      "weight": 1200,
+      "ownerEmail": "bob@example.com"
+    },
+    {
+      "name": "Van X",
+      "currentLatitude": 48.8600,
+      "currentLongitude": 2.3300,
+      "speed": 45,
+      "altitude": 110,
+      "weight": 1800,
+      "ownerEmail": "alice@techsolutions.com"
+    },
+    {
+      "name": "Pickup Y",
+      "currentLatitude": 48.8550,
+      "currentLongitude": 2.3400,
+      "speed": 55,
+      "altitude": 105,
+      "weight": 1600,
+      "ownerEmail": "bob@example.com"
+    },
+    {
+      "name": "Sedan Z",
+      "currentLatitude": 48.8570,
+      "currentLongitude": 2.3500,
+      "speed": 65,
+      "altitude": 115,
+      "weight": 1300,
+      "ownerEmail": "alice@techsolutions.com"
+    }
+  ]
+}
